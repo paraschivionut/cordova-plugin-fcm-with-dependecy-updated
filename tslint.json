@@ -32,5 +32,5 @@
         "no-console": [true, ["warning", "error"]],
         "no-namespace": false
     },
-    "rulesDirectory": ["node_modules/tslint-microsoft-contrib"]
+    "rulesDirectory": []
 }
